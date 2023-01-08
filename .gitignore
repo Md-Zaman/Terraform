@@ -1,6 +1,6 @@
 #.gitignore
 
-# Terraform Files and Folders
+# Terraform Files
 .terraform
 *.tfstate
 *.tfstate.backup
@@ -8,7 +8,7 @@
 *.tfvars
 
 
-#providers file
+#providers files
 providers.tf
 
 
